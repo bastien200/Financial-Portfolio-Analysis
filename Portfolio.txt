@@ -1,0 +1,59 @@
+
+Sample text
+
+A selection of severales asset porfolios. 
+See details below.
+
+Portfolio = Danske Invest
+Grade = 1
+Equities
+Product class, Name
+0, Brazil Equity
+1, UK Equity
+
+Product class, ISIN
+0, LU0757425763
+1, GB0030810021
+
+Grade = 2
+Bonds
+Product class, Name
+0, Global inflation linked bonds
+1, Global Bond - EUR Biased
+2, Corporate bonds
+
+Product class, ISIN
+0, IE0004515239
+1, DK0060137164
+2, BE0252216998
+
+Portfolio = Eastspring_Investments
+Grade = 1
+Equities
+Product class, Name
+0, Nordic Equity
+1, India Equity
+
+Product class, ISIN
+0, LU0360485493
+1, LU0347084369
+
+Grade = 2
+Bonds
+Product class, Name
+0, USD Cautious Allocation
+1, EUR Corporate Bond
+
+Product class, ISIN
+0, GB00B3PPZ729
+1, NL0482499067
+
+Grade = 3
+Structured
+Product class, Name
+0, Structured products and other derivative instruments
+1, Structured notes
+
+Product class, ISIN
+0, LU1505878162
+1, IE00BNJZW449
